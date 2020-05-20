@@ -1,0 +1,37 @@
+header{
+	background-color: grey;
+	position: relative;
+	height: 70px;
+	box-shadow:2px 2px black;
+}
+a.navbar-brand{
+	color:black;
+    float:left;
+    margin:0;
+}
+header h1{
+	text-shadow:2px 2px 2px black;
+}
+nav h1{
+	margin:auto;
+}
+h1{
+	margin:40px auto 40px;
+	text-shadow: 2px 2px 2px  green;
+}
+section{
+	background-color: yellow;
+}
+section div{
+	font-size: 19px;
+	margin-top: 15px;
+}
+.block{
+	background-color: red;
+	width:25%;
+	margin:auto;
+	margin-top: 20px;
+}
+.block h2{
+	text-shadow:2px 2px orange;
+}
